@@ -12,6 +12,38 @@
 
 }
 
+
+.img-modal{
+    width:400px;
+}
+
+
+
+ @media screen and (max-width: 600px) {
+    .img-modal {
+      float: none;
+      width: 120px;
+    }
+
+
+    @media screen and (max-width: 600px) {
+        .modal-dialog{
+          float: none;
+          width: 220px;
+        }
+
+        @media screen and (max-width: 600px) {
+            .modal-body{
+                background-color: antiquewhite;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+
+
+
+
 .modal-body{
   background-color: antiquewhite;
   display: block;

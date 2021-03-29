@@ -1,0 +1,46 @@
+.small-banner {
+  transition: transform 0.5s ease;
+}
+
+.small-banner:hover {
+  transform: scale(1.03);
+}
+.modal-content{
+    background-color: antiquewhite;
+
+
+
+}
+
+.modal-body{
+  background-color: antiquewhite;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+.img-cbanner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  width: 350px;
+  transition: transform 0.5s ease;
+}
+
+.img-cbanner:hover {
+  transform: scale(1.08);
+}
+
+.discount-section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  transition: transform 0.5s ease;
+}
+
+.discount-section:hover {
+  transform: scale(1.08);
+}
